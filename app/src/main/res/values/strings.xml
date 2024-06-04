@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">intent login</string>
+    <string name="hai_mari_bergabung_bersama_kampus_kami">Hai mari bergabung bersama kampus kami</string>
+    <string-array name="jurusan">
+        <item>Sistem informasi</item>
+        <item>DKV</item>
+        <item>Akutansi</item>
+        <item>Manajemen</item>
+        <item>Farmasi</item>
+    </string-array>
+</resources>
